@@ -13,4 +13,3 @@ public class IsUnique {
         return true;
     }
 }
-
